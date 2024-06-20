@@ -1,0 +1,6 @@
+path: /Users/anaidashaginian/education/DeepSchool/hw-detection/data/face_data
+train: images/train
+val: images/validation
+
+names:
+  0: face

@@ -1,0 +1,7 @@
+project_name: "Detection HW"
+experiment_name: "v1.0"
+
+config: "configs/data_configs/data_config.yaml"
+model: "yolov5n"
+
+n_epochs: 10
