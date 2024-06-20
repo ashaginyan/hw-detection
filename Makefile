@@ -9,4 +9,4 @@ setup:
 	clearml-init
 
 train:
-	PYTHONPATH=. python src/train.py configs/experiments/exp1.0.yaml
+	PYTHONPATH=. python src/train.py configs/experiments/exp1.2.yaml
